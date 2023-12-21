@@ -85,7 +85,7 @@ linux:
 # AppImage 配置
 appImage:
   #  AppImage 文件的生成名称
-  artifactName: ${productName}-${version}.${ext}
+  artifactName: ${productName}-${version}.${ext}-localbuild
 # 是否在构建之前重新编译原生模块
 npmRebuild: false
 # 自动更新的配置
