@@ -75,9 +75,9 @@ linux:
   # 构建类型
   target:
     - AppImage
-    - deb
-    - rpm
-    - tar.gz
+    #- deb
+    #- rpm
+    #- tar.gz
   # 维护者信息
   maintainer: imsyy.top
   # 应用程序类别
